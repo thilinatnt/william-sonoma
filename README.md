@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/thilinatnt/william-sonoma.png)](https://travis-ci.com/thilinatnt/william-sonoma)
+[![Build Status](https://travis-ci.com/thilinatnt/william-sonoma.svg)](https://travis-ci.com/thilinatnt/william-sonoma)
 
 # william-sonoma
 Welcome to the Williams-Sonoma Markup 
